@@ -2,9 +2,10 @@ const chai = require('chai');
 const expect = chai.expect;
 
 const { createCard, evaluateGuess } = require('../src/card');
+const { beforeEach } = require('mocha');
 
 describe('card', function() {
-  it('should be a function', function() {
+  it('should be a function', function(){
     expect(createCard).to.be.a('function');
   });
 
