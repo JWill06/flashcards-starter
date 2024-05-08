@@ -27,7 +27,7 @@ function startGame() {
   printQuestion(round);
 
   // Return an object containing the deck and round
-  return { deck, round };
+  return  deck, round ;
 }
 
 module.exports = { printMessage, printQuestion, startGame };

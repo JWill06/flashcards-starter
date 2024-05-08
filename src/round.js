@@ -34,8 +34,8 @@ function calculatePercentageCorrect(round) {
 
 function endRound(round){
     const totalPercentage = calculatePercentageCorrect(round)
-    console.log("TOTAL PERCENT:", totalPercentage)
-    return `** Round over! ** You answered ${totalPercentage}% of the questions correctly!`
+    // console.log("TOTAL PERCENT:", totalPercentage)
+    console.log(`** Round over! ** You answered ${totalPercentage}% of the questions correctly!`)
 }
 
 
