@@ -1,8 +1,6 @@
 function createDeck(cards){
-    let deck = []
-    deck = deck.concat(cards)
-    console.log("DECK:", deck)
-    return deck
+    // console.log("CARDS:", cards)
+    return cards
 }
 
 function countCards(deck){
