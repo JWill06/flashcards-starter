@@ -10,10 +10,10 @@ function createCard(id, question, answers, correctAnswer ){
 
 function evaluateGuess(guess, correctAnswer){
     if(guess === correctAnswer){
-        console.log('Correct!')
+        // console.log('Correct!')
         return `Correct!`
     } else {
-        console.log('Incorrect!')
+        // console.log('Incorrect!')
         return `Incorrect!`
     }
 }
