@@ -15,4 +15,4 @@ This application is strictly ran in the terminal ran on Command-Line Interface (
 
 ## Application Preview
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1zNjNyMmJuYWg4ZzNkMGh2eWhnbXpoc3BpbjIyYjVhczQ4eXNoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o8TcBMuirqQOFQNOEk/giphy.gif
+<iframe src="https://giphy.com/embed/o8TcBMuirqQOFQNOEk" width="480" height="324" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/o8TcBMuirqQOFQNOEk">via GIPHY</a></p>
