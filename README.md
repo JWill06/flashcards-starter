@@ -15,4 +15,5 @@ This application is strictly ran in the terminal ran on Command-Line Interface (
 
 ## Application Preview
 
-<iframe src="https://giphy.com/embed/o8TcBMuirqQOFQNOEk" width="480" height="324" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/o8TcBMuirqQOFQNOEk">via GIPHY</a></p>
+![Giphy Name](https://media.giphy.com/media/o8TcBMuirqQOFQNOEk/giphy.gif)
+
