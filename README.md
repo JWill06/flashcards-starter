@@ -8,7 +8,7 @@ This application is strictly ran in the terminal ran on Command-Line Interface (
 
 ## Setup
 
-1. Follow this (link)https://github.com/JWill06/flashcards-starter
+1. Follow this https://github.com/JWill06/flashcards-starter
 2. Click on the code and clone it into your local machine
 3. in your terminal run 'node index.js' to start the game
 
